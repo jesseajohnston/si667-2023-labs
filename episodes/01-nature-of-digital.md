@@ -1,6 +1,6 @@
 ---
 title: 'Lab 1: Nature of the Digital'
-teaching: NA
+teaching: 5
 exercises: 2
 ---
 
