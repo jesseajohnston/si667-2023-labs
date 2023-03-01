@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/01-nature-of-digital.html</loc>
+  </url>
+  <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/images.html</loc>
+  </url>
+  <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/index.html</loc>
+  </url>
+  <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/01-nature-of-digital.html</loc>
   </url>
   <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/CODE_OF_CONDUCT.html</loc>
@@ -16,16 +28,34 @@
     <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/instructor-notes.html</loc>
   </url>
   <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/introduction.html</loc>
   </url>
   <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/key-points.html</loc>
+  </url>
+  <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/instructor/profiles.html</loc>
   </url>
   <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://morskyjezek.github.io/si667-2023-labs/key-points.html</loc>
   </url>
   <url>
     <loc>https://morskyjezek.github.io/si667-2023-labs/profiles.html</loc>
