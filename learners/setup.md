@@ -2,12 +2,14 @@
 title: Setup
 ---
 
-Setup instructions live in this document. Please specify the tools and the data
-sets the Learner needs to have installed.
+This page describes the background files, data, and software that you will need
+to complete these lab activities.
 
 ## Data Sets
 
-Download the [data zip file](data/data.zip) and unzip it to your Desktop
+Files for these lab assignments, if necessary, may be found in the course files
+github repository, located at 
+https://github.com/jesseajohnston/si667-2023.
 
 ## Software Setup
 
@@ -15,10 +17,9 @@ Download the [data zip file](data/data.zip) and unzip it to your Desktop
 
 ### Details
 
-Setup for different systems can be presented in dropdown menus via a `solution`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+Many of the labs for this class can be accomplished using the VS Code editor, or
+using readily available extension modules (such as those for CSV files, hex viewers,
+etc.).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
