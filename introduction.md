@@ -114,4 +114,3 @@ Cool, right?
 - Run `sandpaper::build_lesson()` to preview your lesson locally
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
