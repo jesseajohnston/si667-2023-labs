@@ -59,7 +59,7 @@ contact: 'morskyjezek@gmail.com'
 
 # Order of episodes in your lesson
 episodes:
-- introduction.Rmd
+- introduction.md
 - 01-nature-of-digital.md
 
 # Information for Learners
