@@ -1,5 +1,5 @@
 ---
-title: 'Lab 1: Nature of the Digital'
+title: 'Nature of the Digital'
 teaching: 5
 exercises: 2
 ---
