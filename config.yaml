@@ -59,8 +59,8 @@ contact: 'morskyjezek@gmail.com'
 
 # Order of episodes in your lesson
 episodes:
-- introduction.md
 - 01-nature-of-digital.md
+- 07-bitcurator-intro.md
 
 # Information for Learners
 learners:
